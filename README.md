@@ -6,7 +6,7 @@
 
  
 
-- A proposta do desafio era fazer utilizando um banco de dados, portanto eu ainda não possuo conhecimento de banco de dados com java, então acabei utilizando uma matriz 5X5 para amarzernar os dados.
+- A proposta do desafio era fazer utilizando um banco de dados, portanto eu ainda não possuo conhecimento de banco de dados com java, então acabei utilizando uma matriz 5X5 para armazenar os dados.
 - O tamanho da matriz pode ser aumentada ou diminuida alterando o valor da constante na **linha 7** no arquivo **Obras.java** .
 
 * **Link do repositario e desafio:** 
